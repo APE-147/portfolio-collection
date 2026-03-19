@@ -17,7 +17,7 @@ The descriptions stay intentionally high-level. They focus on the problem each p
 | [cc-todo](projects/cc-todo.md) | Go | Extracts and tracks TODOs, commitments, and direction changes from AI coding sessions. |
 | [notion-composer](projects/notion-composer.md) | JavaScript | Local orchestrator around a Notion task database for scheduling logic, property coordination, and calendar sync. |
 | [notion-anki](projects/notion-anki.md) | Python | Bidirectional sync between Notion notes and Anki cards. |
-| [tweet-database](projects/tweet-database.md) | TypeScript | Content system that uses Notion as the source of truth and syncs with X in both directions. |
+| [tweet-database](projects/tweet-database.md) | TypeScript | Automated social media observation and management system. |
 | [idea-transfer](projects/idea-transfer.md) | Python | Pipeline for aggregating, routing, and rewriting scattered ideas into a knowledge system. |
 | [claude-mem-cloud](projects/claude-mem-cloud.md) | TypeScript | Cloud extension for Claude memory focused on persistence, retrieval, and provider adaptation. |
 | [meeting-voice](projects/meeting-voice.md) | TypeScript / Rust | Real-time voice translation app for cross-language communication. |

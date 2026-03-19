@@ -17,7 +17,7 @@
 | [cc-todo](projects/cc-todo.md) | Go | 从 AI 编码会话中提取并持续追踪 TODO、承诺和方向变化。 |
 | [notion-composer](projects/notion-composer.md) | JavaScript | 围绕 Notion 任务库的本地编排器，用来统一时间块计算、属性联动和日程同步。 |
 | [notion-anki](projects/notion-anki.md) | Python | 在 Notion 笔记和 Anki 卡片之间做双向同步。 |
-| [tweet-database](projects/tweet-database.md) | TypeScript | 以 Notion 为内容源头，并与 X 保持双向同步的内容系统。 |
+| [tweet-database](projects/tweet-database.md) | TypeScript | 自动化社交媒体观察管理系统。 |
 | [idea-transfer](projects/idea-transfer.md) | Python | 把任务系统中的零散想法聚合、分流并转写进知识系统。 |
 | [claude-mem-cloud](projects/claude-mem-cloud.md) | TypeScript | 围绕 Claude 记忆系统做的云端化扩展，强调持久化、检索和 Provider 适配。 |
 | [meeting-voice](projects/meeting-voice.md) | TypeScript / Rust | 面向实时跨语言沟通场景的语音翻译应用。 |
