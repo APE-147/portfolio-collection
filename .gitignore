@@ -1,0 +1,13 @@
+# Ignore everything by default in the repo root.
+/*
+
+# Keep the public portfolio content and repo rules.
+!/.gitignore
+!/README.md
+!/README.zh.md
+!/projects/
+!/projects/**
+
+# Local noise
+.DS_Store
+.specstory/
