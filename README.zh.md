@@ -23,7 +23,7 @@
 | [meeting-voice](projects/zh/meeting-voice.md) | TypeScript / Rust | 面向实时跨语言沟通场景的语音翻译应用。 |
 | [animal-meme-generate](projects/zh/animal-meme-generate.md) | Python | 面向动物拟人化梗图的生成流水线，重点解决主体一致性和动作可信度。 |
 | [spec-cloud](projects/zh/spec-cloud.md) | TypeScript | 把长会话历史做成可检索能力的 MCP 服务。 |
-| [language-practice](projects/zh/language-practice.md) | TypeScript / Rust | 把媒体导入、转录、播放、练习和 AI 互动收进同一工作台的英语学习应用。 |
+| [language-practice](projects/zh/language-practice.md) | TypeScript / Rust | 把媒体导入、转录、播放、练习和 AI 互动收进同一工作台的语言学习应用。 |
 | [daily-collection](projects/zh/daily-collection.md) | Python | 把健康数据、时间数据和日程安排接起来的个人数据系统。 |
 
 ## 说明

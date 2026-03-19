@@ -2,7 +2,7 @@
 
 ## One-Line Summary
 
-An English learning desktop app that brings media import, transcription, playback, practice, and AI interaction into one workspace.
+A language learning desktop app that brings media import, transcription, playback, practice, and AI interaction into one workspace.
 
 ## Problem
 

@@ -23,7 +23,7 @@ The descriptions stay intentionally high-level. They focus on the problem each p
 | [meeting-voice](projects/en/meeting-voice.md) | TypeScript / Rust | Real-time voice translation app for cross-language communication. |
 | [animal-meme-generate](projects/en/animal-meme-generate.md) | Python | Generation pipeline for anthropomorphic animal memes, focused on identity consistency and believable actions. |
 | [spec-cloud](projects/en/spec-cloud.md) | TypeScript | MCP retrieval service for long conversation history. |
-| [language-practice](projects/en/language-practice.md) | TypeScript / Rust | English learning app that combines media import, transcription, playback, practice, and AI interaction in one workspace. |
+| [language-practice](projects/en/language-practice.md) | TypeScript / Rust | Language learning app that combines media import, transcription, playback, practice, and AI interaction in one workspace. |
 | [daily-collection](projects/en/daily-collection.md) | Python | Personal data system connecting health, time, and schedule signals. |
 
 ## Notes
