@@ -4,7 +4,7 @@
 
 This repository is a curated collection of selected projects.
 
-The descriptions stay intentionally high-level. They focus on the problem each project addresses, why the solution was chosen, and the engineering judgment behind it, without exposing sensitive implementation details.
+The descriptions stay intentionally high-level. They focus on the problem each project addresses, why the solution was chosen, and the engineering judgment behind it.
 
 ## Project Overview
 
